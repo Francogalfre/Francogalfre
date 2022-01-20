@@ -6,7 +6,7 @@ Here are some quick things about me:
 
 - 🎨 I like doing quality work.
 
-- 🧑‍💻 Coding is my passion.
+- 👨‍💻 Coding is my passion.
 
 - 📫 The best way to reach me is to send me an <a href="mailto:francogalfre2007@gmail.com">email</a>. 
 
