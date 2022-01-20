@@ -8,7 +8,7 @@ Here are some quick things about me:
 
 - 🧑‍💻 Coding is my passion.
 
-- 📫 The best way to reach me is to send me an <a href="francogalfre2007@gmail.com">email</a>. 
+- 📫 The best way to reach me is to send me an <a href="mailto:francogalfre2007@gmail.com">email</a>. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
