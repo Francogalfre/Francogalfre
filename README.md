@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Franco</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">Thanks for visiting my GitHub profile!</h3>
+Here are some quick things about me:
 
-- 🔭 I’m currently working on **develop my frontend skils!**
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **HTML & CSS**
+🔭 I'm a fronted developer who is paranoid about convention, consistency, and constraints.
+🎨 I like doing quality work.
+🧑‍💻 Coding is my passion.
+📫 The best way to reach me is to send me an email. <a href="#">Gmail</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
