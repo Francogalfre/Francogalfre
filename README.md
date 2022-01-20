@@ -2,10 +2,13 @@
 <h3 align="center">Thanks for visiting my GitHub profile!</h3>
 Here are some quick things about me:
 
-🔭 I'm a fronted developer who is paranoid about convention, consistency, and constraints.
-🎨 I like doing quality work.
-🧑‍💻 Coding is my passion.
-📫 The best way to reach me is to send me an email. <a href="#">Gmail</a>
+- 🔭 I'm a fronted developer who is paranoid about convention, consistency, and constraints.
+
+- 🎨 I like doing quality work.
+
+- 🧑‍💻 Coding is my passion.
+
+- 📫 The best way to reach me is to send me an <a href="francogalfre2007@gmail.com">email</a>. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
