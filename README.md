@@ -11,8 +11,6 @@ Here are some quick things about me:
 
 - 👨‍💻 Coding is my passion.
 
-- 📫 The best way to reach me is to send me an <a href="mailto:francogalfre2007@gmail.com">email</a>. 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/francxgalfre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="franxgalfre" height="30" width="40" /></a>
