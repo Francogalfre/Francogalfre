@@ -1,3 +1,5 @@
+<img src="![image](https://user-images.githubusercontent.com/96532888/172273750-907c8621-8504-4c30-8f12-7fd80107e016.png)" />
+
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">Thanks for visiting my GitHub profile!</h3>
 Here are some quick things about me:
