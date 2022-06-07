@@ -1,4 +1,4 @@
-<p><img aling="center" alt="gif" src="https://user-images.githubusercontent.com/96532888/172273932-b4f7d4f4-39ae-4f43-9b02-c6c0e86e4e8d.png" width="500" height="320" /></p>
+<img aling="right" alt="Coding Gif" width="400" src="https://dicatic.com/wp-content/uploads/2020/10/dicatic_ilustracion_actualidad-1.gif" />
 
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">Thanks for visiting my GitHub profile!</h3>
