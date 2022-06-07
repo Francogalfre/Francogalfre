@@ -1,8 +1,8 @@
 <div align="center">
-  <img  alt="Coding Gif" width="300" src="https://media1.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif?cid=790b76117f2090a48220ef20f62006cd0681a5a50108c424&rid=giphy.gif&ct=s" />
+  <img  alt="Coding Gif" width="350" src="https://media1.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif?cid=790b76117f2090a48220ef20f62006cd0681a5a50108c424&rid=giphy.gif&ct=s" />
 </div> 
 
-<h3 align="left">Thanks for visiting my GitHub profile! 😁</h3>
+<h2 align="left">Thanks for visiting my GitHub profile! 😁</h3>
 Here are some quick things about me:
 
 - 🔭 I'm a fronted developer who is paranoid about convention, consistency, and constraints.
