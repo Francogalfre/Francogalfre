@@ -1,4 +1,4 @@
-<img aling="right" alt="Coding Gif" width="400" src="https://dicatic.com/wp-content/uploads/2020/10/dicatic_ilustracion_actualidad-1.gif" />
+<img alt="Coding Gif" width="300" src="https://images.squarespace-cdn.com/content/v1/5e5ae71a84c054209740dee2/1599154214047-CKM89ZQMQTQBBUNCBYI3/090320_Final.gif" />
 
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">Thanks for visiting my GitHub profile!</h3>
