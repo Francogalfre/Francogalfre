@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="right" alt="Coding Gif" width="200" src="https://media0.giphy.com/media/kyuWvPj8enRVAeUvfO/giphy.gif" />
+  <img align="right" alt="Coding Gif" width="200" src="https://media3.giphy.com/media/IsGGkNl69uMSqgKB1c/giphy.gif" />
 </div> 
 
 <h2 align="left">Thanks for visiting my Profile!</h3>
