@@ -18,9 +18,9 @@
 </a>  
 
 ### Glad to see you here!  
-Hello! I am a Junior Frontend Developer who is dedicated to continuously learning and improving my skills in web development. I am passionate about creating visually appealing and user-friendly websites that provide a seamless experience for users.
+Hello! I am a Junior Frontend Developer who is dedicated to continuously learning and improving my skills in web development. I am passionate about creating visually appealing and user-friendly websites that provide a seamless experience for users. 🍍
 
-With a solid understanding of HTML, CSS, and JavaScript, and experience with modern frontend frameworks such as React.js, I am confident in my ability to bring designs to life and create dynamic web experiences. However, I am always seeking new challenges and opportunities to expand my knowledge and push the boundaries of what is possible.
+With a solid understanding of HTML, CSS, and JavaScript, and experience with modern frontend frameworks such as React.js, I am confident in my ability to bring designs to life and create dynamic web experiences. However, I am always seeking new challenges and opportunities to expand my knowledge and push the boundaries of what is possible. 🥞
 
 <br />
 
@@ -41,9 +41,3 @@ With a solid understanding of HTML, CSS, and JavaScript, and experience with mod
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-<br />
-  
- ## About Me
-
-
