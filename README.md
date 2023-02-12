@@ -6,7 +6,7 @@
 
 - 🔭 I'm a fronted developer who is paranoid about convention, consistency, and constraints.
 
-- 🎨 I like doing quality work.
+- 🎨 I am currently studying to work on this in the future
 
 - 👨‍💻 Coding is my passion.
 
