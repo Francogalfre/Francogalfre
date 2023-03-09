@@ -1,6 +1,6 @@
-# <img  src="https://media0.giphy.com/media/2t9jwipooP0TqiQ8Rt/giphy.gif?cid=ecf05e476uh50j7f5ovlu6t94oo1hjyrdtwkm0eckidwp55w&rid=giphy.gif&ct=s" width="25px" > Hello I'm Franco  
+# <img src="https://media3.giphy.com/media/AEzzUX1F0hbz4gORau/giphy.gif?cid=ecf05e47y1xlgaq274sekpgwvlkbs5nlwjv2yjtgf7qfernv&rid=giphy.gif&ct=s" width="30px" >  Hello I'm Franco  
 
-<img src="https://i.imgur.com/ViiR9wA.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://i.imgur.com/ViiR9wA.png" alt="banner that says Franco Galfre - Frontend Developer" width="810px" heigth="200px" >
 
 <a href="https://github.com/francogalfre" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -22,7 +22,7 @@
 
 ````bash
 > help --info
-> I am a Junior Fronted Developer I am a Junior Frontend Developer who is constantly learning 
-> and doing projects. I like to solve problems and improve a little every day ❤. At the moment 
-> I go to high school
+> I am a 'Junior Frontend Developer' with a passion for creating beautiful websites. I am
+> dedicated to producing high-quality work that not only looks great, but also delivers 
+> a seamless user experience. I like to solve problems and 'be better every day' ❤
 ````
