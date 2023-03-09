@@ -1,8 +1,6 @@
-<div align="center">
-  <img align="right" alt="Coding Gif" width="200" src="https://media3.giphy.com/media/IsGGkNl69uMSqgKB1c/giphy.gif" />
-</div> 
+# <img  src="https://media0.giphy.com/media/2t9jwipooP0TqiQ8Rt/giphy.gif?cid=ecf05e476uh50j7f5ovlu6t94oo1hjyrdtwkm0eckidwp55w&rid=giphy.gif&ct=s" width="25px" > Hello I'm Franco  
 
-## Hey 👋, I'm Franco Galfre!  
+<img src="https://i.imgur.com/ViiR9wA.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
 <a href="https://github.com/francogalfre" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -14,10 +12,20 @@
   <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
 
-### Glad to see you here!  
-Hello! I am a Junior Frontend Developer who is dedicated to continuously learning and improving my skills in web development. I am passionate about creating visually appealing and user-friendly websites that provide a seamless experience for users. 🍍
+<br />
 
-With a solid understanding of HTML, CSS, and JavaScript, and experience with modern frontend frameworks such as React.js, I am confident in my ability to bring designs to life and create dynamic web experiences. However, I am always seeking new challenges and opportunities to expand my knowledge and push the boundaries of what is possible. 🥞
+<div align="center">
+  <img align="right" alt="Coding Gif" width="200" src="https://media3.giphy.com/media/IsGGkNl69uMSqgKB1c/giphy.gif" />
+</div> 
+
+<br />
+
+````bash
+> help --info
+> I am a Junior Fronted Developer I am a Junior Frontend Developer who is constantly learning 
+> and doing projects. I like to solve problems and improve a little every day ❤. At the moment 
+> I go to high school
+````
 
 <br />
 
