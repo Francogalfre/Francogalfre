@@ -1,6 +1,6 @@
 # <img src="https://media3.giphy.com/media/AEzzUX1F0hbz4gORau/giphy.gif?cid=ecf05e47y1xlgaq274sekpgwvlkbs5nlwjv2yjtgf7qfernv&rid=giphy.gif&ct=s" width="30px" >  Hello I'm Franco  
 
-<img src="https://i.imgur.com/ViiR9wA.png" alt="banner that says Franco Galfre - Frontend Developer" width="810px" heigth="200px" >
+<img src="https://i.imgur.com/iULdXny.png" alt="banner that says Franco Galfre - Frontend Developer" width="830px" heigth="200px" >
 
 <a href="https://github.com/francogalfre" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
