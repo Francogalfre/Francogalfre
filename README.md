@@ -1,4 +1,4 @@
-# <img src="https://media3.giphy.com/media/AEzzUX1F0hbz4gORau/giphy.gif?cid=ecf05e47y1xlgaq274sekpgwvlkbs5nlwjv2yjtgf7qfernv&rid=giphy.gif&ct=s" width="30px" >  Hello I'm Franco  
+<h2>Hello I'm</h2> 
 
 <img src="https://i.imgur.com/iULdXny.png" alt="banner that says Franco Galfre - Frontend Developer" width="830px" heigth="200px" >
 
