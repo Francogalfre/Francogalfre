@@ -22,7 +22,7 @@
 
 ````bash
 > help --info
-> I am a 'Junior Frontend Developer' with a passion for creating beautiful websites. I am
+> I am a 'Junior Full Stack Developer' with a passion for creating beautiful websites. I am
 > dedicated to producing high-quality work that not only looks great, but also delivers 
 > a seamless user experience. I like to solve problems and 'be better every day' ❤
 ````
