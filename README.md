@@ -1,6 +1,6 @@
 <h2>Hello I'm</h2> 
 
-<img src="https://imgur.com/LtnZ93v" alt="banner that says Franco Galfre - Frontend Developer" width="830px" heigth="200px" >
+<img src="https://i.imgur.com/LtnZ93v.jpg" alt="banner that says Franco Galfre - Frontend Developer" width="830px" heigth="200px" >
 
 <a href="https://github.com/francogalfre" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -25,7 +25,8 @@
 
 ````bash
 > help --info
-> I am a 'Junior Full Stack Developer' with a passion for creating beautiful websites. I am
-> dedicated to producing high-quality work that not only looks great, but also delivers 
-> a seamless user experience. I like to solve problems and 'be better every day' ❤
+> I am a 'Full Stack Web Developer' with a passion for creating beautiful websites. With
+> experience in UI/UX as a freelancer, I am dedicated to producing high-quality work  
+> that not only looks great, but also delivers a seamless user experience. I like to
+> solve problems and 'be better every day' ❤
 ````
